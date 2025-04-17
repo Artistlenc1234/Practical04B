@@ -2,9 +2,9 @@
     "name": "practical04b",
     "version": "1.0.0",
     "description": "My project for Jenkins pipeline testing",
-    "main": "index.js",
+    "main": "app.js",
     "scripts": {
-      "start": "node index.js"
+      "start": "node app.js"
     },
     "author": "Aryan Rajaram Dhuri",
     "license": "ISC"
