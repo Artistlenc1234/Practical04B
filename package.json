@@ -1,0 +1,12 @@
+{
+    "name": "practical04b",
+    "version": "1.0.0",
+    "description": "My project for Jenkins pipeline testing",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Aryan Rajaram Dhuri",
+    "license": "ISC"
+  }
+  
